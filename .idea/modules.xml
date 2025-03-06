@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Lista1-java/Lista1-java.iml" filepath="$PROJECT_DIR$/Lista1-java/Lista1-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista4-java/Lista4-java.iml" filepath="$PROJECT_DIR$/Lista4-java/Lista4-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista5-java/Lista5-java.iml" filepath="$PROJECT_DIR$/Lista5-java/Lista5-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoDeSoftware-Exercicios.iml" filepath="$PROJECT_DIR$/ProjetoDeSoftware-Exercicios.iml" />
+    </modules>
+  </component>
+</project>
