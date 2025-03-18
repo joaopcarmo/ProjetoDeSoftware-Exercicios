@@ -2,9 +2,16 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Lista1-java/Lista1-java.iml" filepath="$PROJECT_DIR$/Lista1-java/Lista1-java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lista4-java/Lista4-java.iml" filepath="$PROJECT_DIR$/Lista4-java/Lista4-java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Lista5-java/Lista5-java.iml" filepath="$PROJECT_DIR$/Lista5-java/Lista5-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista1/Lista1.iml" filepath="$PROJECT_DIR$/Lista1/Lista1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista10/Lista10.iml" filepath="$PROJECT_DIR$/Lista10/Lista10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista2/Lista2.iml" filepath="$PROJECT_DIR$/Lista2/Lista2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista3/Lista3.iml" filepath="$PROJECT_DIR$/Lista3/Lista3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista4/Lista4.iml" filepath="$PROJECT_DIR$/Lista4/Lista4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista5/Lista5.iml" filepath="$PROJECT_DIR$/Lista5/Lista5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista6/Lista6.iml" filepath="$PROJECT_DIR$/Lista6/Lista6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista7/Lista7.iml" filepath="$PROJECT_DIR$/Lista7/Lista7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista8/Lista8.iml" filepath="$PROJECT_DIR$/Lista8/Lista8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lista9/Lista9.iml" filepath="$PROJECT_DIR$/Lista9/Lista9.iml" />
       <module fileurl="file://$PROJECT_DIR$/ProjetoDeSoftware-Exercicios.iml" filepath="$PROJECT_DIR$/ProjetoDeSoftware-Exercicios.iml" />
     </modules>
   </component>
